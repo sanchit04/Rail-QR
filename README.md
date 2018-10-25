@@ -30,11 +30,11 @@ These are the main sections of the RAIL-QR.
     - Verifies the details filled up by the students with the aadhar details stored in the college database.
 - SAP Crystal Report
     - Dynamically creates graphical reports based on the entries made into database by filling up the form.
--Certificate Generator
+- Certificate Generator
     - Once details are verified automated concession certificate is generated based Monthly or Quarterly basis
--Rail-QR QR code generator
+- Rail-QR QR code generator
     - Once the automated certificate is generated it is converted into QR code and mailed to the repective person.
 
 ## Client-
--QR code
-    -Brings up the QR code to the scanning center which is scanned using TWedge Software and depending upon the validity of certificate      is generated based on monthly or quaterly basis.
+- QR code
+    - Brings up the QR code to the scanning center which is scanned using TWedge Software and depending upon the validity of certificate      is generated based on monthly or quaterly basis.
