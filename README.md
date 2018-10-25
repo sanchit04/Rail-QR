@@ -38,3 +38,11 @@ These are the main sections of the RAIL-QR.
 ## Client-
 - QR code
     - Brings up the QR code to the scanning center which is scanned using TWedge Software and depending upon the validity of certificate      is generated based on monthly or quaterly basis.
+    
+## Prerequisites
+
+You will need the following things properly installed on your computer.
+* **[Visual Studio 2017(https://visualstudio.microsoft.com/downloads/)**
+
+
+
