@@ -48,19 +48,22 @@ You will need the following things properly installed on your computer.
 
 # SCREENSHOTS
 
-![capture](https://user-images.githubusercontent.com/37934048/47516521-47c28780-d8a3-11e8-9068-98b63b6c5bdb.PNG)
-![railqr-1](https://user-images.githubusercontent.com/37934048/47517610-5c544f00-d8a6-11e8-920a-183442d7ebe0.jpg)
-![rail-qr2](https://user-images.githubusercontent.com/37934048/47517829-016f2780-d8a7-11e8-9513-4cceae6a828f.jpg)
 ![1](https://user-images.githubusercontent.com/37934048/47520203-2d8da700-d8ad-11e8-873a-900f56d02eef.jpg)
 
-![1](https://user-images.githubusercontent.com/37934048/47520203-2d8da700-d8ad-11e8-873a-900f56d02eef.jpg)
 ![2](https://user-images.githubusercontent.com/37934048/47520273-5d3caf00-d8ad-11e8-8e97-b5aba9cd1a4e.jpg)
+
 ![3](https://user-images.githubusercontent.com/37934048/47520286-6a599e00-d8ad-11e8-9cb0-a2d05e3ec325.jpg)
+
 ![4](https://user-images.githubusercontent.com/37934048/47520300-73e30600-d8ad-11e8-860c-2016c8a0c673.jpg)
+
 ![5](https://user-images.githubusercontent.com/37934048/47520308-79d8e700-d8ad-11e8-9258-1db1735d1c5e.jpg)
+
 ![6](https://user-images.githubusercontent.com/37934048/47520312-7b0a1400-d8ad-11e8-9df9-ff61bfd31a7f.jpg)
+
 ![7](https://user-images.githubusercontent.com/37934048/47520313-7b0a1400-d8ad-11e8-85fc-1ae36f5ac324.jpg)
+
 ![8](https://user-images.githubusercontent.com/37934048/47520314-7ba2aa80-d8ad-11e8-83ed-f92f992b2e43.jpg)
+
 ![9](https://user-images.githubusercontent.com/37934048/47520315-7ba2aa80-d8ad-11e8-9da8-4f854d25f112.jpg)
 
 
