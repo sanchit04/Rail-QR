@@ -43,6 +43,9 @@ These are the main sections of the RAIL-QR.
 
 You will need the following things properly installed on your computer.
 * **[Visual Studio 2017(https://visualstudio.microsoft.com/downloads/)**
+* **[Chrome Broswer(https://www.google.com/intl/en_in/chrome/)**
 
 
 
+
+Note : These features are subject to change as per the requirements.
