@@ -8,3 +8,4 @@ The project which is deployed by me truly supports Digital India movement and I 
 The concept, working and the yield of project is totally simple to understand with a complex back-end part. Basically, the system uses QR code to generate automated concession certificates which can be printed in couple of seconds thus cutting the slack of long queues.
 
 # PROJECT WIREFRAME
+![railqr-1](https://user-images.githubusercontent.com/37934048/47517610-5c544f00-d8a6-11e8-920a-183442d7ebe0.jpg)
