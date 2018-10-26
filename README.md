@@ -70,3 +70,5 @@ You will need the following things properly installed on your computer.
 
 
 Note : These features are subject to change as per the requirements.
+
+### Please note that not all files are added up only the startup code is added to get an overview about the project build because of the copyright issues.
